@@ -210,9 +210,7 @@ export default function SkinScanAI() {
                 Your skin, <em>understood</em>
               </h1>
               <p className="ss-hero-sub">
-                Upload an image of any skin concern — cuts, rashes, pimples, dry
-                patches, scars, and more. Get an instant AI-powered analysis with
-                care recommendations.
+               Upload a photo of your skin to check for signs of acne, eczema, or just confirm everything looks good.
               </p>
             </div>
 
